@@ -12,8 +12,7 @@ On présente le robot et ses possibilités : déplacement, changement de couleur
 
 Puis, on présente Thymio VPL aux enfants en expliquant le principe de chaque block et la notion SI -> ALORS.
 
-On fait des groupes.
-Et définir la taille d'un groupe (un nombre max) afin d'aider en priorité les enfants qui débutent.
+On fait des groupes, composés au maximum de X enfants (X à définir en fonction des conditions, pas trop nombreux pour éviter de délaisser des enfants). Des groupes de deux fonctionnent plutôt bien. Menez une attention particulière aux enfants les plus jeunes.
 
 On distribue à chaque groupe un exercice à la fois, qui comprend l'énoncé et la solution. L'objectif est de faire l'exercice sans s'aider de la solution et de comparer la solution trouvée par l'enfant à la solution proposée.
 
