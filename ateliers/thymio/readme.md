@@ -24,7 +24,7 @@ Pour le dernier exercice, c'est très sympa de construire le circuit avec les en
 
 ### VPL, VPL 3 ou Scratch ?
 
-Le module VPL suffit. Si l'enfant le désire ou a terminé en avance, il peut utiliser un autre module.
+Le module VPL suffit. Si le groupe le désire ou a terminé en avance, il peut utiliser un autre module.
 À noter qu'en VPL il existe un mode avancé qui permet de nouvelles fonctionnalités (gestion d'états, timer...).
 
 ### Le robot doit-il rester connecté à l'ordinateur ?
