@@ -2,11 +2,11 @@
 
 *Cet atelier peut être fait après l’atelier de présentation et de découverte de Thymio.*
 
-## But : 
+## But
 
 Découvrir la programmation avec Thymio.
 
-## Déroulé : 
+## Déroulé
 
 On présente le robot et ses possibilités : déplacement, changement de couleurs, capteurs...
 
@@ -26,7 +26,9 @@ Pour le dernier exercice, c'est très sympa de construire le circuit avec les en
 
 Le module VPL suffit. Si le groupe le désire ou a terminé en avance, il peut utiliser un autre module.
 À noter qu'en VPL il existe un mode avancé qui permet de nouvelles fonctionnalités (gestion d'états, timer...).
+À vous de voir si vous voulez utiliser le module VPL3 dès le début.
 
 ### Le robot doit-il rester connecté à l'ordinateur ?
 
 Non. Une fois les instructions transmises au robot, ce dernier peut être détaché. Le gros bouton carré rouge en VPL permet d'effacer la mémoire du robot.
+C'est une bonne pratique de garder la condition `SI appui bouton central ALORS arrêt moteur` à chaque exercice.
