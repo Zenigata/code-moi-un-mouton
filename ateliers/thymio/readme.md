@@ -14,7 +14,7 @@ Puis, on présente Thymio VPL aux enfants en expliquant le principe de chaque bl
 
 On fait des groupes, composés au maximum de X enfants (X à définir en fonction des conditions, pas trop nombreux pour éviter de délaisser des enfants). Des groupes de deux fonctionnent plutôt bien. Menez une attention particulière aux enfants les plus jeunes.
 
-Les exercices sont distribués un par un ou d'un coup. Cela dépendra du nombre de groupe d'enfants présents lors de l'atelier. Attention toutefois à ne pas avoir de gros écart dans l'avancement des exercices.
+Les exercices sont distribués un par un ou d'un coup. Cela dépendra du nombre de groupes d'enfants présents lors de l'atelier. Attention toutefois à ne pas avoir de gros écart dans l'avancement des exercices.
 
 L'objectif est de faire l'exercice sans s'aider de la solution et de comparer la solution trouvée par l'enfant à la solution proposée.
 
